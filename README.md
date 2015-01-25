@@ -9,9 +9,9 @@ Samples
 
 Results summary
 
-| ID	| d (nm)	| Eg (eV)	| x (% wt. Zn)  |<br>
-| 699	| 158		| 2.94 +/- 0.05	| 49 +/- 1	|<br>
-| 799	| 		|		|		|<br>
+| ID	| d (nm)	| Eg (eV)	| x (% wt. Zn)  |  
+| 699	| 158		| 2.94 +/- 0.05	| 49 +/- 1	|  
+| 799	| 132		| 2.90 +/- 0.03 | 45 +/- 1	|  
 
 c.f extracted band gaps with sputtered Cd_(1-x)Zn_xS films (see "eg_vs_x.png")
 
